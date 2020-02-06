@@ -1,1 +1,3 @@
 # rubydrill
+
+rubyドリル用のリポジトリ
